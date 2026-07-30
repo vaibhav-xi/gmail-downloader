@@ -52,5 +52,6 @@ dist/
 *.bak
 
 gmail_clone.db
+emails.db
 
 attachments/
